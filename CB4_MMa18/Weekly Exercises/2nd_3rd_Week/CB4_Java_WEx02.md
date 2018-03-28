@@ -11,3 +11,5 @@
 In order to implement this feature you will need to create an array for the initialized number of doors and assign a status to each door.
 
 2. Implement the previous question with any design pattern you think is the most appropriate for the job 
+
+You need to submit via email at george.pasparakis@peoplecert.org a WeTransfer link which contains a zipped file with your project by Friday 30/3/2018 09:00
